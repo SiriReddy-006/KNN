@@ -1,4 +1,7 @@
 # knn
-knn classification and regression
+knn classification 
 streamlit:
-https://irisflowerprediction1234.streamlit.app/
+https://knnclassifier-irisflowerprediction1234.streamlit.app/
+knn regressor
+streamlit:
+https://knnregregression-irispetalwidthprediction.streamlit.app/
